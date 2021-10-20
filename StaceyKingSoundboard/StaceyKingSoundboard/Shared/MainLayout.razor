@@ -1,15 +1,19 @@
 ﻿@inherits LayoutComponentBase
 
-<div class="sidebar">
-    <NavMenu />
-</div>
-
 <div class="main">
-    <div class="top-row px-4">
-        <a href="http://blazor.net" target="_blank" class="ml-md-auto">About</a>
+
+    <div class="card text-center content px-4" style="padding: 0px; margin: 0px;">
+        <div class="card-header" style="background-color: #ba0d36; color: white;">
+            Featured
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">Special title treatment</h5>
+            <p class="card-text">@Body With supporting text below as a natural lead-in to additional content.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+        <div class="card-footer text-muted" style="background-color: #ba0d36; color: white;">
+            2 days ago
+        </div>
     </div>
 
-    <div class="content px-4">
-        @Body
-    </div>
 </div>

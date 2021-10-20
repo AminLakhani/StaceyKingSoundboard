@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\kt3SLqsYfeb-Px88S7Np3SCryUq4G640CeUjI319FCY=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mpBBu0G8pyCm9Vy2NL8bcS_8aqCkLJWAGs7DmIAyYkk=.hash",
       "Source": "C:\\github\\StaceyKingSoundboard\\StaceyKingSoundboard\\StaceyKingSoundboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\StaceyKingSoundboard.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/StaceyKingSoundboard.dll.gz"
     },
@@ -261,7 +261,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\a8L43DNscwTjCRVnU4zJPqLddsDj8yqHG05SqrHdMaQ=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\NcvNUct93D9CPAaNMVq167RCUznTKMrBh16fj5RR4O8=.hash",
       "Source": "C:\\github\\StaceyKingSoundboard\\StaceyKingSoundboard\\StaceyKingSoundboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\StaceyKingSoundboard.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/StaceyKingSoundboard.pdb.gz"
     },
@@ -286,7 +286,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Kz2KPWioyaX6anWXYpn6dzOq8aDwkNl0rVk3b2EvNQo=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ZHDJXQ7zSviUnfiCcXC-YRgIkTs2YGc8FhBf5ddbHD4=.hash",
       "Source": "C:\\github\\StaceyKingSoundboard\\StaceyKingSoundboard\\StaceyKingSoundboard\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }
