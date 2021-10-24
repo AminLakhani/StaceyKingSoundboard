@@ -12,6 +12,8 @@ on:
 jobs:
   build:
     runs-on: windows-latest
+    env:
+      working-directory: StaceyKingSoundboard/StaceyKingSoundboard/
 
     steps:
       - uses: actions/checkout@v2
@@ -24,9 +26,11 @@ jobs:
 
       - name: Build with dotnet
         run: dotnet build --configuration Release
+        working-directory: ${{env.working-directory}}
 
       - name: dotnet publish
         run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/myapp
+        working-directory: ${{env.working-directory}}
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v2
