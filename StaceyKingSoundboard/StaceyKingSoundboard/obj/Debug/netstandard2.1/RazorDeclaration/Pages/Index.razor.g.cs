@@ -83,6 +83,29 @@ using StaceyKingSoundboard.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 32 "C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\Pages\Index.razor"
+ 
+    public List<Clips> clips;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var ArrClips = await Http.GetFromJsonAsync<Clips[]>("data/clips.json");
+        clips = ArrClips.ToList();
+    }
+
+    public class Clips
+    {
+        public string Title { get; set; }
+
+        public string Mp3Path { get; set; }
+
+    }
+
+#line default
+#line hidden
+#nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private HttpClient Http { get; set; }
     }
 }
 #pragma warning restore 1591

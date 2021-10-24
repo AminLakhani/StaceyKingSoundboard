@@ -156,12 +156,9 @@ C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Deb
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\StaceyKingSoundboard.csproj.CoreCompileInputs.cache
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\StaceyKingSoundboard.RazorComponent.input.cache
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
-C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
-C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
-C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\StaceyKingSoundboard.RazorComponent.output.cache
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\RazorDeclaration\StaceyKingSoundboard.dll
@@ -169,12 +166,9 @@ C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Deb
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\StaceyKingSoundboard.TagHelpers.output.cache
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\StaceyKingSoundboard.RazorCoreGenerate.cache
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
-C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\Razor\Pages\Counter.razor.g.cs
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
-C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
-C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\blazor\unlinked.output
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
@@ -356,6 +350,8 @@ C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Deb
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\StaceyKingSoundboard.csproj.CopyComplete
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\StaceyKingSoundboard.dll
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\StaceyKingSoundboard.pdb
-C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\integrity\mpBBu0G8pyCm9Vy2NL8bcS_8aqCkLJWAGs7DmIAyYkk=.hash
-C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\integrity\NcvNUct93D9CPAaNMVq167RCUznTKMrBh16fj5RR4O8=.hash
-C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\integrity\ZHDJXQ7zSviUnfiCcXC-YRgIkTs2YGc8FhBf5ddbHD4=.hash
+C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\bin\Debug\netstandard2.1\wwwroot\data\clips.json
+C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\bin\Debug\netstandard2.1\wwwroot\mp3s\fe070e4TGzus.128.mp3
+C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\integrity\6ObBuCa2fI06X7Xjn9CYsnOuqHCsgr_9b6IOGe06hWY=.hash
+C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\integrity\_yTeMDEL6v6yvigxrlEFdaxWO1c7xyZ37ZG2pbwmpSE=.hash
+C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\integrity\fNYeYW5to9g8bY9iOpqwFkgVljMYYwvs6Y469nYQJlU=.hash

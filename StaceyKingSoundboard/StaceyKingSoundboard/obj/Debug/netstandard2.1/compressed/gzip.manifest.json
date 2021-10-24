@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mpBBu0G8pyCm9Vy2NL8bcS_8aqCkLJWAGs7DmIAyYkk=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6ObBuCa2fI06X7Xjn9CYsnOuqHCsgr_9b6IOGe06hWY=.hash",
       "Source": "C:\\github\\StaceyKingSoundboard\\StaceyKingSoundboard\\StaceyKingSoundboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\StaceyKingSoundboard.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/StaceyKingSoundboard.dll.gz"
     },
@@ -161,26 +161,6 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash",
-      "Source": "C:\\github\\StaceyKingSoundboard\\StaceyKingSoundboard\\StaceyKingSoundboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Web.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.gz"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\m7Q_cF5-ji3OMfdGlCuE8pQ-iM_kxNHLq-IEWVvIaOg=.hash",
-      "Source": "C:\\github\\StaceyKingSoundboard\\StaceyKingSoundboard\\StaceyKingSoundboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Forms.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll.gz"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash",
-      "Source": "C:\\github\\StaceyKingSoundboard\\StaceyKingSoundboard\\StaceyKingSoundboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.Annotations.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.Annotations.dll.gz"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash",
-      "Source": "C:\\github\\StaceyKingSoundboard\\StaceyKingSoundboard\\StaceyKingSoundboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.DataAnnotations.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.gz"
-    },
-    {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash",
       "Source": "C:\\github\\StaceyKingSoundboard\\StaceyKingSoundboard\\StaceyKingSoundboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.gz"
@@ -261,7 +241,27 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\NcvNUct93D9CPAaNMVq167RCUznTKMrBh16fj5RR4O8=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash",
+      "Source": "C:\\github\\StaceyKingSoundboard\\StaceyKingSoundboard\\StaceyKingSoundboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Web.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\m7Q_cF5-ji3OMfdGlCuE8pQ-iM_kxNHLq-IEWVvIaOg=.hash",
+      "Source": "C:\\github\\StaceyKingSoundboard\\StaceyKingSoundboard\\StaceyKingSoundboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Forms.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash",
+      "Source": "C:\\github\\StaceyKingSoundboard\\StaceyKingSoundboard\\StaceyKingSoundboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.Annotations.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.Annotations.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash",
+      "Source": "C:\\github\\StaceyKingSoundboard\\StaceyKingSoundboard\\StaceyKingSoundboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.DataAnnotations.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\_yTeMDEL6v6yvigxrlEFdaxWO1c7xyZ37ZG2pbwmpSE=.hash",
       "Source": "C:\\github\\StaceyKingSoundboard\\StaceyKingSoundboard\\StaceyKingSoundboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\StaceyKingSoundboard.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/StaceyKingSoundboard.pdb.gz"
     },
@@ -286,7 +286,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ZHDJXQ7zSviUnfiCcXC-YRgIkTs2YGc8FhBf5ddbHD4=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\fNYeYW5to9g8bY9iOpqwFkgVljMYYwvs6Y469nYQJlU=.hash",
       "Source": "C:\\github\\StaceyKingSoundboard\\StaceyKingSoundboard\\StaceyKingSoundboard\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }

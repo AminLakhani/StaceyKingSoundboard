@@ -1,4 +1,49 @@
 ﻿@page "/"
+@inject HttpClient Http
 
-HELLO WORLD
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<div class="card-body">
+    <h5 class="card-title">I'm hype Neil Funk.</h5>
+    <p class="card-text">
+        <div class="container">
+            <div class="row">
+                @if (clips == null)
+                {
+                    <p><em>Loading...</em></p>
+                }
+                else
+                {
+                    @foreach (var clip in clips)
+                    {
+                        <div class="col-md-3">
+                            <div onclick="playAudio('@clip.Mp3Path')" class="card mb-3 box-shadow">
+                                <img class="card-img-top" src="https://m.media-amazon.com/images/I/61FZe4ko+PL._AC_SY445_.jpg">
+                                <p style="font-weight: 900; padding: 5px;" class="card-text">@clip.Title</p>
+                            </div>
+                        </div>
+                    }
+                }
+                <br/> <br/>
+            </div>
+        </div>
+    </p>
+</div>
+
+@code
+{
+    public List<Clips> clips;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var ArrClips = await Http.GetFromJsonAsync<Clips[]>("data/clips.json");
+        clips = ArrClips.ToList();
+    }
+
+    public class Clips
+    {
+        public string Title { get; set; }
+
+        public string Mp3Path { get; set; }
+
+    }
+}
+
