@@ -352,6 +352,6 @@ C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Deb
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\StaceyKingSoundboard.pdb
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\bin\Debug\netstandard2.1\wwwroot\data\clips.json
 C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\bin\Debug\netstandard2.1\wwwroot\mp3s\fe070e4TGzus.128.mp3
-C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\integrity\6ObBuCa2fI06X7Xjn9CYsnOuqHCsgr_9b6IOGe06hWY=.hash
-C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\integrity\_yTeMDEL6v6yvigxrlEFdaxWO1c7xyZ37ZG2pbwmpSE=.hash
-C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\integrity\fNYeYW5to9g8bY9iOpqwFkgVljMYYwvs6Y469nYQJlU=.hash
+C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\integrity\UhEBRpTrkr3aXWqmVsKY4CXg8_hisp4MlAi30OAASdA=.hash
+C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\integrity\dRDhcQsmp59BY2MaGNJYAgEJSSZApfDTk4f-zR9j5PE=.hash
+C:\github\StaceyKingSoundboard\StaceyKingSoundboard\StaceyKingSoundboard\obj\Debug\netstandard2.1\integrity\AfsrjBxymWSiZCXrnZWCidZqwXhJRKb7D3BA1S8grTI=.hash

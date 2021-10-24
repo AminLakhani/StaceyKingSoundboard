@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "StaceyKingSoundboard.dll": "sha256-6ObBuCa2fI06X7Xjn9CYsnOuqHCsgr+9b6IOGe06hWY=",
+      "StaceyKingSoundboard.dll": "sha256-UhEBRpTrkr3aXWqmVsKY4CXg8+hisp4MlAi30OAASdA=",
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -60,7 +60,7 @@
       "System.ComponentModel.DataAnnotations.dll": "sha256-LIfCYwg+PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8="
     },
     "pdb": {
-      "StaceyKingSoundboard.pdb": "sha256-+yTeMDEL6v6yvigxrlEFdaxWO1c7xyZ37ZG2pbwmpSE="
+      "StaceyKingSoundboard.pdb": "sha256-dRDhcQsmp59BY2MaGNJYAgEJSSZApfDTk4f\/zR9j5PE="
     },
     "runtime": {
       "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",
